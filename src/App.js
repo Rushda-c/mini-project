@@ -1,22 +1,27 @@
+import React from 'react'
 
-import './App.css';
-import { BrowserRouter,Route,Routes } from 'react-router-dom';
-import UserRoutes from './Routes/UserRoutes';
-import AdminRoutes from './Routes/AdminRoutes';
+import { BrowserRouter,Routes,Route } from 'react-router-dom';
+
+
+
+
+
 
 function App() {
   return (
-    <>
-    <BrowserRouter>
-    <Routes>
-      <Route path='/*' element={<UserRoutes/>}/>
-      <Route path='/admin/*' element={<AdminRoutes/>}/>
-    </Routes>
-    </BrowserRouter>
+    <div> 
+      <BrowserRouter>
     
-    </>
+    
+      <Routes>
+        <Route path='/*' element={<UserRouter/>}/>
+        
 
-  );
+      </Routes>
+      </BrowserRouter>
+
+    </div>
+  )
 }
 
-export default App;
+export default App
