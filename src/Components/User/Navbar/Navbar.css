@@ -1,3 +1,31 @@
+*
+{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+.free
+{
+    padding:10px 30px;
+    width:100%;
+    background: black;
+    display:flex;
+}.free .icon
+{
+    color:#f3b123;
+    font-size: 22px;
+
+}
+.free p{
+
+    margin-left: 10px;
+    color:#f6f7f9;
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
 .navbar
 {
     display:flex;
@@ -72,20 +100,7 @@
 {
     background: white;
 }
-.nav-cart-count
-{
-    width: 20px; /* Adjusted width */
-    height: 20px; /* Adjusted height */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: -35px;
-    margin-right: -20px; /* Adjusted margin */
-    border-radius: 50%; /* Changed border-radius to create a circular shape */
-    font-size: 10px;
-    background: red;
-    color: white;
-}
+
 
 
 

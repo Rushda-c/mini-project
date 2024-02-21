@@ -1,26 +1,18 @@
 import React from 'react'
-
-import { BrowserRouter,Routes,Route } from 'react-router-dom';
-
-
-
-
-
+import { BrowserRouter ,Route,Routes } from 'react-router-dom';
+import UserRoutes from './Components/Routes/UserRoutes';
 
 function App() {
   return (
-    <div> 
-      <BrowserRouter>
+    <>
+    <BrowserRouter>
+    <Routes>
+      <Route path='/*' element={<UserRoutes/>}/>
     
+    </Routes>
+    </BrowserRouter>
     
-      <Routes>
-        <Route path='/*' element={<UserRouter/>}/>
-        
-
-      </Routes>
-      </BrowserRouter>
-
-    </div>
+    </>
   )
 }
 
