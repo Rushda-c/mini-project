@@ -2,7 +2,6 @@ import React from 'react'
 
 import { Routes,Route } from 'react-router-dom';
 import HomePage from '../../Pages/User/HomePage';
-
 function UserRoutes() {
   return (
     <div> 
@@ -11,7 +10,7 @@ function UserRoutes() {
     
       <Routes>
         <Route path='/' element={<HomePage/>}/>
-        
+      
       
         
       </Routes>
