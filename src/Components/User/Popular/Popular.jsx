@@ -1,6 +1,8 @@
 import React from 'react'
 import './Popular.css'
-import data from '../Assets/data'
+import data from '../Assets/Data'
+import Item from '../Item/Item' 
+
 function Popular() {
   return (
     <div className='popular'>
@@ -8,9 +10,14 @@ function Popular() {
 <hr/>
 <div className='popular-item'>
   {data.map((item)=>{
-    return
+    return<Item id={item.id} name={item.name} image={item.image} new_price={item.new_price} old_price={item.old_price}/>
   })}
 </div>
+
+
+        
+
+
     </div>
   )
 }
