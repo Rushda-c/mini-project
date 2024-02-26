@@ -22,7 +22,7 @@ const Navbar = () => {
 
         <div className='navbar'>
             <div className='nav-logo'>
-                <img src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Fshopify%2Fshopify-ar21.svg&width=100&height=50"></img>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsCwLdEs7rvgyP6GlrFm3WSsmM3gvkcdrV9gp3UdekKw&s"height={50}width={100}></img>
                 
                 
             </div>
