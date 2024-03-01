@@ -1,18 +1,17 @@
 import React from 'react'
 import Navbar from '../../Components/User/Navbar/Navbar'
-import Mens from '../../Components/User/Mens/Mens'
+import Womens from '../../Components/User/Womens/Womens'
 import Footer from '../../Components/User/Footer/Footer'
 
-function ShopCategoryPage() {
+
+function ShopWomenPage() {
   return (
     <div>
-      <Navbar/>
-        <Mens/>
-        
+        <Navbar/>
+        <Womens/>
         <Footer/>
-        
     </div>
   )
 }
 
-export default ShopCategoryPage
+export default ShopWomenPage
