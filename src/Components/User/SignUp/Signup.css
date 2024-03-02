@@ -1,0 +1,56 @@
+form {
+    top:50px;
+    margin: auto;
+    max-width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color:lightcyan;
+}
+
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.div {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 7px;
+}
+
+input {
+    height: 30px; /* Adjust height to a reasonable value */
+    width: 100%; /* Make input field width 100% */
+    box-sizing: border-box;
+    padding: 5px; /* Adjust padding as needed */
+}
+
+button {
+    background-color: red;
+    color: white;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 50%;
+     /* Make button width 100% */
+    text-align: center; /* Center text inside button */
+    
+}
+
+button:active {
+    background-color: antiquewhite;
+}
+.error {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+    display: none; /* Initially hide error messages */
+}
+
+
