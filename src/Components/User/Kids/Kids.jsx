@@ -10,6 +10,8 @@ function Kids() {
         <div>
           <span style={{ textDecoration: 'line-through', marginRight: '5px' }}>$110</span>
           <span style={{ color: 'black' }}>$34</span>
+          <div className='product-button'>Add to Cart</div>
+
         </div>
       </div>
       <div  className='product'>
@@ -18,6 +20,8 @@ function Kids() {
       <div>
         <span style={{ textDecoration: 'line-through', marginRight:'5px'}}>$12</span>
         <span style={{ color:'black'}}>$61</span>
+        <div className='product-button'>Add to Cart</div>
+
       </div>
       </div>
       <div className='product'>
@@ -26,6 +30,8 @@ function Kids() {
         <div>
           <span style={{ textDecoration: 'line-through', marginRight:'5px'}}>$34</span>
           <span style={{ color:'black'}}>$12</span>
+          <div className='product-button'>Add to Cart</div>
+
         </div>
       </div>
       <div className='product'>
@@ -34,6 +40,8 @@ function Kids() {
         <div>
           <span style={{ textDecoration: 'line-through', marginRight:'5px'}}>$15</span>
           <span style={{ color:'black'}}>$12</span>
+          <div className='product-button'>Add to Cart</div>
+
         </div>
       </div>
      < div className='product'>
@@ -42,6 +50,8 @@ function Kids() {
         <div>
           <span style={{ textDecoration: 'line-through', marginRight:'5px'}}>$99</span>
           <span style={{ color:'black'}}>$56</span>
+          <div className='product-button'>Add to Cart</div>
+
         </div>
       </div>
       <div className='product'>
@@ -50,6 +60,8 @@ function Kids() {
         <div>
           <span style={{ textDecoration: 'line-through', marginRight:'5px'}}>$100</span>
           <span style={{ color:'black'}}>$67</span>
+          <div className='product-button'>Add to Cart</div>
+
         </div>
       </div>
       <div className='product'>
@@ -59,6 +71,8 @@ function Kids() {
         <div>
           <span style={{ textDecoration: 'line-through', marginRight:'5px'}}>$102</span>
           <span style={{ color:'black'}}>$67</span>
+          <div className='product-button'>Add to Cart</div>
+
         </div>
       </div>
       <div className='product'>
@@ -67,6 +81,8 @@ function Kids() {
         <div>
           <span style={{ textDecoration: 'line-through', marginRight:'5px'}}>$120</span>
           <span style={{ color:'black'}}>$56</span>
+          <div className='product-button'>Add to Cart</div>
+
         </div>
       </div>
       <div className='product'>
@@ -75,6 +91,8 @@ function Kids() {
         <div>
           <span style={{ textDecoration: 'line-through', marginRight:'5px'}}>$19</span>
           <span style={{ color:'black'}}>$62</span>
+          <div className='product-button'>Add to Cart</div>
+
         </div>
       </div>
       <div className='product'>
@@ -83,6 +101,8 @@ function Kids() {
         <div>
           <span style={{ textDecoration: 'line-through', marginRight:'5px'}}>$56</span>
           <span style={{ color:'black'}}>$110</span>
+          <div className='product-button'>Add to Cart</div>
+
         </div>
       </div>
       <div className='product'>
@@ -91,6 +111,8 @@ function Kids() {
         <div>
           <span style={{ textDecoration: 'line-through', marginRight:'5px'}}>$67</span>
           <span style={{ color:'black'}}>$110</span>
+          <div className='product-button'>Add to Cart</div>
+
         </div>
       </div>
       <div className='product'>
@@ -99,6 +121,8 @@ function Kids() {
         <div>
           <span style={{ textDecoration: 'line-through', marginRight:'5px'}}>$67</span>
           <span style={{ color:'black'}}>$108</span>
+          <div className='product-button'>Add to Cart</div>
+
         </div>
       </div>
       <div className='product'>
@@ -107,6 +131,8 @@ function Kids() {
         <div>
           <span style={{ textDecoration: 'line-through', marginRight:'5px'}}>$53</span>
           <span style={{ color:'black'}}>$108</span>
+          <div className='product-button'>Add to Cart</div>
+
         </div>
       </div>
       <div className='product'>
@@ -115,6 +141,8 @@ function Kids() {
         <div>
           <span style={{ textDecoration: 'line-through', marginRight:'5px'}}>$15</span>
           <span style={{ color:'black'}}>$112</span>
+          <div className='product-button'>Add to Cart</div>
+
         </div>
       </div>
       <div className='product'>
@@ -123,6 +151,8 @@ function Kids() {
         <div>
           <span style={{ textDecoration: 'line-through', marginRight:'5px'}}>$180</span>
           <span style={{ color:'black'}}>$45</span>
+          <div className='product-button'>Add to Cart</div>
+
         </div>
       </div>
       <div className='product'>
@@ -131,6 +161,8 @@ function Kids() {
         <div>
           <span style={{ textDecoration: 'line-through', marginRight:'5px'}}>$120</span>
           <span style={{ color:'black'}}>$102</span>
+          <div className='product-button'>Add to Cart</div>
+
         </div>
       </div>
       
